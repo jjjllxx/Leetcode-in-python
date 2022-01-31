@@ -4,7 +4,6 @@ Given a signed 32-bit integer x, return x with its digits reversed. If reversing
 
 Assume the environment does not allow you to store 64-bit integers (signed or unsigned).
 
- 
 
 Example 1:
 Input: x = 123
@@ -16,10 +15,10 @@ Output: -321
 
 Example 3:
 Input: x = 120
-Output: 21
- 
-Constraints:
--231 <= x <= 231 - 1
+Output: 21  
+  
+Constraints:  
+-2^31 <= x <= 2^31 - 1
 
 
 ``` python3
