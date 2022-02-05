@@ -22,8 +22,8 @@ Constraints:
 
 1 <= m, n <= 100
 
+## dp
 ``` python3
-
 class Solution:
     def uniquePaths(self, m: int, n: int) -> int:
         dp=[1 for i in range(n)]
@@ -31,14 +31,12 @@ class Solution:
             for j in range(1,n):
                 dp[j]+=dp[j-1]
         
-        return dp[-1]
-        
+        return dp[-1] 
 ```
 
+## Math
 ``` python3
-
 class Solution:
     def uniquePaths(self, m: int, n: int) -> int:
-        return comb(m + n - 2, n - 1)
-        
+        return comb(m + n - 2, n - 1)        
 ```
