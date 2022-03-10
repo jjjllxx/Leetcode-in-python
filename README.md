@@ -13,6 +13,9 @@ Cpp version: [Leetcode-in-cpp](https://github.com/JinLexuan/Leetcode-in-cpp)
 [59. Spiral Matrix II](https://github.com/JinLexuan/Leetcode-in-python/blob/main/array/0059%20Spiral%20Matrix%20II.md)  
 [73. Set Matrix Zeroes](https://github.com/JinLexuan/Leetcode-in-python/blob/main/array/0073%20Set%20Matrix%20Zeroes.md)  
 [75. Sort Colors](https://github.com/JinLexuan/Leetcode-in-python/blob/main/array/0075%20Sort%20Colors.md)  
+[169. Majority Element](https://github.com/JinLexuan/Leetcode-in-python/blob/main/array/0169%20Majority%20Element.md)  
+[189. Rotate Array](https://github.com/JinLexuan/Leetcode-in-python/blob/main/array/0189%20Rotate%20Array.md)  
+[240. Search a 2D Matrix II](https://github.com/JinLexuan/Leetcode-in-python/blob/main/array/0240%20Search%20a%202D%20Matrix%20II.md)  
 
 ## backtrack
 [17. Letter Combinations of a Phone Number](https://github.com/JinLexuan/Leetcode-in-python/blob/main/array/0036%20Valid%20Sudoku.md)  
@@ -24,10 +27,15 @@ Cpp version: [Leetcode-in-cpp](https://github.com/JinLexuan/Leetcode-in-cpp)
 
 ## binary search
 [35. Search Insert Position](https://github.com/JinLexuan/Leetcode-in-python/blob/main/binary%20search/0035%2035.%20Search%20Insert%20Position.md)  
+[153. Find Minimum in Rotated Sorted Array](https://github.com/JinLexuan/Leetcode-in-python/blob/main/binary%20search/0153%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.md)  
+[278. First Bad Version](https://github.com/JinLexuan/Leetcode-in-python/blob/main/binary%20search/0278%20First%20Bad%20Version.md)  
 
 ## bit manipulation
 [7. Reverse Integer](https://github.com/JinLexuan/Leetcode-in-python/blob/main/bit%20manipulation/0007%20Reverse%20Integer.md) 
-[136. Single Number](https://github.com/JinLexuan/Leetcode-in-python/blob/main/bit%20manipulation/0136%20Single%20Number.md)
+[136. Single Number](https://github.com/JinLexuan/Leetcode-in-python/blob/main/bit%20manipulation/0136%20Single%20Number.md)  
+[190. Reverse Bits](https://github.com/JinLexuan/Leetcode-in-python/blob/main/bit%20manipulation/0190%20Reverse%20Bits.md)  
+[191. Number of 1 Bits](https://github.com/JinLexuan/Leetcode-in-python/blob/main/bit%20manipulation/0191%20Number%20of%201%20Bits.md)  
+[231. Power of Two](https://github.com/JinLexuan/Leetcode-in-python/blob/main/bit%20manipulation/0231%20Power%20of%20Two.md)  
 
 ## dynamic programming
 [45. Jump Game II](https://github.com/JinLexuan/Leetcode-in-python/blob/main/dynamic%20programming/0045%20Jump%20Game%20II.md)  
@@ -41,6 +49,15 @@ Cpp version: [Leetcode-in-cpp](https://github.com/JinLexuan/Leetcode-in-cpp)
 [121. Best Time to Buy and Sell Stock](https://github.com/JinLexuan/Leetcode-in-python/blob/main/dynamic%20programming/0121%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)  
 [122. Best Time to Buy and Sell Stock II](https://github.com/JinLexuan/Leetcode-in-python/blob/main/dynamic%20programming/0122%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md)  
 [139. Word Break](https://github.com/JinLexuan/Leetcode-in-python/blob/main/dynamic%20programming/0139%20Word%20Break.md)  
+[152. Maximum Product Subarray](https://github.com/JinLexuan/Leetcode-in-python/blob/main/dynamic%20programming/0152%20Maximum%20Product%20Subarray.md)  
+[198. House Robber](https://github.com/JinLexuan/Leetcode-in-python/blob/main/dynamic%20programming/0198%20House%20Robber.md)
+[209. Minimum Size Subarray Sum](https://github.com/JinLexuan/Leetcode-in-python/blob/main/dynamic%20programming/0209%20Minimum%20Size%20Subarray%20Sum.md)  
+[213. House Robber II](https://github.com/JinLexuan/Leetcode-in-python/blob/main/dynamic%20programming/0213%20House%20Robber%20II.md)  
+[221. Maximal Square](https://github.com/JinLexuan/Leetcode-in-python/blob/main/dynamic%20programming/0221%20Maximal%20Square.md)  
+[264. Ugly Number II](https://github.com/JinLexuan/Leetcode-in-python/blob/main/dynamic%20programming/0264%20Ugly%20Number%20II.md)  
+[309. Best Time to Buy and Sell Stock with Cooldown](https://github.com/JinLexuan/Leetcode-in-python/blob/main/dynamic%20programming/0309%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown.md)  
+[322. Coin Change](https://github.com/JinLexuan/Leetcode-in-python/blob/main/dynamic%20programming/0322%20Coin%20Change.md)    
+[377. Combination Sum IV](https://github.com/JinLexuan/Leetcode-in-python/blob/main/dynamic%20programming/0377%20Combination%20Sum%20IV.md)  
 
 ## graph
 [547. Number of Provinces](https://github.com/JinLexuan/Leetcode-in-python/blob/main/graph/0547%20Number%20of%20Provinces.md)  
