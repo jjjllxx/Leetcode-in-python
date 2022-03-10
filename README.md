@@ -65,12 +65,24 @@ Cpp version: [Leetcode-in-cpp](https://github.com/JinLexuan/Leetcode-in-cpp)
 [997. Find the Town Judge](https://github.com/JinLexuan/Leetcode-in-python/blob/main/graph/0997%20Find%20the%20Town%20Judge.md)  
 
 ## greedy algorithm
+[300. Longest Increasing Subsequence](https://github.com/JinLexuan/Leetcode-in-python/blob/main/greedy/0300%20Longest%20Increasing%20Subsequence.md)  
+[376. Wiggle Subsequence](https://github.com/JinLexuan/Leetcode-in-python/blob/main/greedy/0376%20Wiggle%20Subsequence.md)  
+[397. Integer Replacement](https://github.com/JinLexuan/Leetcode-in-python/blob/main/greedy/0397%20Integer%20Replacement.md)  
+[409. Longest Palindrome](https://github.com/JinLexuan/Leetcode-in-python/blob/main/greedy/0409%20Longest%20Palindrome.md)  
 
 ## hashtable
 [1.Two Sum](https://github.com/JinLexuan/Leetcode-in-python/blob/main/hashtable/0001%20Two%20Sum.md)  
 [49. Group Anagrams](https://github.com/JinLexuan/Leetcode-in-python/blob/main/hashtable/0049%20Group%20Anagrams.md)  
+[217. Contains Duplicate](https://github.com/JinLexuan/Leetcode-in-python/blob/main/hashtable/0217%20Contains%20Duplicate.md)  
+[219. Contains Duplicate II](https://github.com/JinLexuan/Leetcode-in-python/blob/main/hashtable/0219%20Contains%20Duplicate%20II.md)  
+[290. Word Pattern](https://github.com/JinLexuan/Leetcode-in-python/blob/main/hashtable/0290%20Word%20Pattern.md)  
+[349. Intersection of Two Arrays](https://github.com/JinLexuan/Leetcode-in-python/blob/main/hashtable/0349%20Intersection%20of%20Two%20Arrays.md)  
+[350. Intersection of Two Arrays II](https://github.com/JinLexuan/Leetcode-in-python/blob/main/hashtable/0350%20Intersection%20of%20Two%20Arrays%20II.md)  
+[383. Ransom Note](https://github.com/JinLexuan/Leetcode-in-python/blob/main/hashtable/0383%20Ransom%20Note.md)  
+[387. First Unique Character in a String](https://github.com/JinLexuan/Leetcode-in-python/blob/main/hashtable/0387%20First%20Unique%20Character%20in%20a%20String.md)  
 
 ## heap
+[347. Top K Frequent Elements](https://github.com/JinLexuan/Leetcode-in-python/blob/main/heap/0347%20Top%20K%20Frequent%20Elements.md)  
 
 ## linked list
 [2.Add Two Numbers](https://github.com/JinLexuan/Leetcode-in-python/blob/main/linked%20list/0002%20Add%20Two%20Numbers.md)  
