@@ -1,6 +1,6 @@
 # Leetcode-in-python
 Leetcode question solution in python, updating  
-Including array, backtrack, binary search, bit manipulation, dynamic programming,graph, greedy algorithm, hashtable, heap, linked list, math, queue & stack, sort, string, tree and two pointer.  
+Including array, backtrack, binary search, bit manipulation, dynamic programming, graph, greedy algorithm, hashtable, heap, linked list, math, prefix sum, queue & stack, sort, string, tree and two pointer.  
 Named with question number and question name.  
 Cpp version: [Leetcode-in-cpp](https://github.com/JinLexuan/Leetcode-in-cpp)  
 
