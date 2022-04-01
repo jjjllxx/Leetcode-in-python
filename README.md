@@ -139,6 +139,7 @@ Cpp version: [Leetcode-in-cpp](https://github.com/JinLexuan/Leetcode-in-cpp)
 [116. Populating Next Right Pointers in Each Node](https://github.com/JinLexuan/Leetcode-in-python/blob/main/tree/0116%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node.md)  
 [144. Binary Tree Preorder Traversal](https://github.com/JinLexuan/Leetcode-in-python/blob/main/tree/0144%20Binary%20Tree%20Preorder%20Traversal.md)  
 [145. Binary Tree Postorder Traversal](https://github.com/JinLexuan/Leetcode-in-python/blob/main/tree/0145%20Binary%20Tree%20Postorder%20Traversal.md)  
+[173. Binary Search Tree Iterator](https://github.com/JinLexuan/Leetcode-in-python/blob/main/tree/0173%20Binary%20Search%20Tree%20Iterator.md)  
 [226. Invert Binary Tree](https://github.com/JinLexuan/Leetcode-in-python/blob/main/tree/0226%20Invert%20Binary%20Tree.md)  
 [235. Lowest Common Ancestor of a Binary Search Tree](https://github.com/JinLexuan/Leetcode-in-python/blob/main/tree/0235%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.md)  
 
