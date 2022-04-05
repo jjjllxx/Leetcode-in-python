@@ -15,6 +15,7 @@ Output: false
 Constraints:  
 1 <= num <= 2^31 - 1  
 
+## Newton Method
 ``` python3
 class Solution:
     def isPerfectSquare(self, num: int) -> bool:
@@ -25,4 +26,21 @@ class Solution:
                 break
             x0=x1
         return int(x0)*int(x0)==num 
+```
+## binary search
+
+``` python3
+class Solution:
+    def isPerfectSquare(self, num: int) -> bool:
+        left,right=1,num
+        middle=(left+right)//2
+        while left<=right:
+            if middle*middle==num:
+                return True
+            elif middle*middle>num:
+                right=middle-1
+            else:
+                left=middle+1
+            middle=(right+left)//2
+        return False
 ```
