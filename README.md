@@ -1,4 +1,5 @@
 # Leetcode-in-python
+力扣python解法，按照算法类型分类，持续更新中。  
 Leetcode question solution in python, updating  
 Including array, backtrack, binary search, bit manipulation, dynamic programming, graph, greedy algorithm, hashtable, heap, linked list, math, prefix sum, queue & stack, sort, string, tree and two pointer.  
 Named with question number and question name.  
